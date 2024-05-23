@@ -6,3 +6,7 @@ Este artículo explora la estrecha relación entre las matemáticas y la inform�
 
 ### Palabras clave: 
 informática, matemáticas, relación 
+
+### Autores
+Carlos Brayan Ramila Chorens
+Alba Pineda Gutierrez
